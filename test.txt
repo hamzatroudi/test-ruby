@@ -1,2 +1,4 @@
 do ruby
 master write
+kjkjk
+kopjoop
