@@ -1,2 +1,2 @@
 do ruby
-do 
+master write
