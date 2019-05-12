@@ -2,3 +2,5 @@ do ruby
 master write
 kjkjk
 kopjoop
+kopjoklm
+kijkjop
